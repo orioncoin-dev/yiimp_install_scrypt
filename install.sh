@@ -234,6 +234,7 @@ default         0;
     sudo ufw allow 3252/tcp
     sudo ufw allow 5755/tcp
     sudo ufw allow 5766/tcp
+	sudo ufw allow 3638/tcp
     sudo ufw allow 5833/tcp
     sudo ufw allow 5933/tcp
     sudo ufw allow 6033/tcp
